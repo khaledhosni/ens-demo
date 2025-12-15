@@ -1,9 +1,11 @@
 import React from 'react'
 
 export default function login(user,pass) {
-    console.log("ss");
+  console.log("sucess");
   return (
-    <div>shehab-a</div>
+    <div>shehab-a</div>,
+    <div> mohamed </div>
+    
   )
 }
 
