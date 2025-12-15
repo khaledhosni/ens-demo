@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function abdelrahman-a() {
+export default function abdelrahman() {
   return (
     <div>
-      Abdelel
+      abdelrahman-a
     </div>
   )
 }
